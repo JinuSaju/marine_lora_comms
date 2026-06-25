@@ -210,7 +210,11 @@ Potential limitations include:
 ├── Lora_Reciver_DB/
 │   └── post_rec_final.ino
 ├── docs/
+│   └── mini_project_report_final.pdf
 ├── images/
+│   └── components.png
+│   └── receiver_node.jpg
+│   └── transmitter_node.jpeg
 └── README.md
 ```
 
