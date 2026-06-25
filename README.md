@@ -1,4 +1,4 @@
-# 🌊 IoT-Based Maritime Communication and Monitoring System using LoRa
+<img width="1313" height="1198" alt="image" src="https://github.com/user-attachments/assets/0b091410-da34-4067-bf7d-671017c08271" /># 🌊 IoT-Based Maritime Communication and Monitoring System using LoRa
 
 An IoT-enabled maritime communication and monitoring system that leverages **ESP32**, **LoRa**, and **GPS** technologies to provide reliable long-range communication and real-time monitoring in marine environments where conventional internet connectivity is unavailable or unreliable.
 
@@ -39,6 +39,8 @@ The receiver node further forwards the received data to a backend server, enabli
 
 ## System Architecture
 
+![image alt](https://github.com/JinuSaju/marine_lora_comms/blob/main/images/WhatsApp%20Image%202026-06-25%20at%208.25.16%20PM.jpeg?raw=true)
+![image alt](https://github.com/JinuSaju/marine_lora_comms/blob/main/images/WhatsApp%20Image%202026-06-25%20at%208.25.16%20PM%20(1).jpeg?raw=true)
 ```text
           GPS Module
                │
@@ -62,6 +64,8 @@ The receiver node further forwards the received data to a backend server, enabli
 ---
 
 ## Hardware Components
+
+![image alt](https://github.com/JinuSaju/marine_lora_comms/blob/main/images/4d39dead-6f6d-4c55-9c3e-214abcdba353.png?raw=true)
 
 ### Transmitter Node
 
